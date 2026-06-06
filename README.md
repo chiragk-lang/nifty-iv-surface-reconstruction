@@ -51,6 +51,8 @@ The final submission uses a blend of:
 
 The blending weights were selected through cross-validation and further refined using leaderboard feedback.
 
+Best Kaggle Public Leaderboard Score: 0.0000380722
+
 ---
 
 ## Repository Contents
