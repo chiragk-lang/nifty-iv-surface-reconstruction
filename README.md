@@ -58,7 +58,6 @@ Best Kaggle Public Leaderboard Score: 0.0000380722
 ## Repository Contents
 
 - `24117040-finclub-project2.ipynb` – Complete notebook
-- `submission.csv` – Final competition submission file
 
 ---
 
